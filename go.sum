@@ -73,10 +73,10 @@ github.com/vishvananda/netlink v1.3.1 h1:3AEMt62VKqz90r0tmNhog0r/PpWKmrEShJU0wJW
 github.com/vishvananda/netlink v1.3.1/go.mod h1:ARtKouGSTGchR8aMwmkzC0qiNPrrWO5JS/XMVl45+b4=
 github.com/vishvananda/netns v0.0.5 h1:DfiHV+j8bA32MFM7bfEunvT8IAqQ/NzSJHtcmW5zdEY=
 github.com/vishvananda/netns v0.0.5/go.mod h1:SpkAiCQRtJ6TvvxPnOSyH3BMl6unz3xZlaprSwhNNJM=
-github.com/xtls/reality v0.0.0-20250723121014-c6320729d93b h1:HOOsQYu7/EzvpegY7uHiaeI9H/6OsHAOkREnJthdUW8=
-github.com/xtls/reality v0.0.0-20250723121014-c6320729d93b/go.mod h1:XxvnCCgBee4WWE0bc4E+a7wbk8gkJ/rS0vNVNtC5qp0=
-github.com/xtls/xray-core v1.250608.1-0.20250724021908-4f45c5faa5f1 h1:5YFdWAwmW/pB7aMltnUmsRC8QY37817Q2m9WqVUVxPU=
-github.com/xtls/xray-core v1.250608.1-0.20250724021908-4f45c5faa5f1/go.mod h1:dqSs+9mmzvOZRFxTaS0ktkQYG8TD9naApQPdnp/MUzA=
+github.com/xtls/reality v0.0.0-20250725142056-5b52a03d4fb7 h1:Ript0vN+nSO33+Vj4n0mgNY5M+oOxFQJdrJ1VnwTBO0=
+github.com/xtls/reality v0.0.0-20250725142056-5b52a03d4fb7/go.mod h1:XxvnCCgBee4WWE0bc4E+a7wbk8gkJ/rS0vNVNtC5qp0=
+github.com/xtls/xray-core v1.250725.0 h1:FU8Jm++NsppC+QLf9OKW+viI/vPXDog6btHgT8UAK5Y=
+github.com/xtls/xray-core v1.250725.0/go.mod h1:dqSs+9mmzvOZRFxTaS0ktkQYG8TD9naApQPdnp/MUzA=
 github.com/xyproto/randomstring v1.0.5 h1:YtlWPoRdgMu3NZtP45drfy1GKoojuR7hmRcnhZqKjWU=
 github.com/xyproto/randomstring v1.0.5/go.mod h1:rgmS5DeNXLivK7YprL0pY+lTuhNQW3iGxZ18UQApw/E=
 go.opentelemetry.io/auto/sdk v1.1.0 h1:cH53jehLUN6UFLY71z+NDOiNJqDdPRaXzTel0sJySYA=
@@ -135,7 +135,7 @@ gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c/go.mod h1:K4uyk7z7BCEPqu6E+C
 gopkg.in/yaml.v3 v3.0.0-20200605160147-a5ece683394c/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
 gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
-gvisor.dev/gvisor v0.0.0-20250724225717-58e3ad3c5334 h1:8xWzu7NR+r8M39shViVDlCEHpYa5+psF6lFqpu1cvvk=
-gvisor.dev/gvisor v0.0.0-20250724225717-58e3ad3c5334/go.mod h1:i8iCZyAdwRnLZYaIi2NUL1gfNtAveqxkKAe0JfAv9Bs=
+gvisor.dev/gvisor v0.0.0-20250725202816-b3f2b27b7293 h1:o2xuoPNDyxSdYd5p73of+ds+bjwUzTg+1nTs9X9aHdE=
+gvisor.dev/gvisor v0.0.0-20250725202816-b3f2b27b7293/go.mod h1:i8iCZyAdwRnLZYaIi2NUL1gfNtAveqxkKAe0JfAv9Bs=
 lukechampine.com/blake3 v1.4.1 h1:I3Smz7gso8w4/TunLKec6K2fn+kyKtDxr/xcQEN84Wg=
 lukechampine.com/blake3 v1.4.1/go.mod h1:QFosUxmjB8mnrWFSNwKmvxHpfY72bmD2tQ0kBMM3kwo=
