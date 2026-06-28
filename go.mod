@@ -3,7 +3,7 @@ module github.com/2dust/AndroidLibXrayLite
 go 1.26.3
 
 require (
-	github.com/xtls/xray-core v1.260327.1-0.20260622185510-b99c3e56574f
+	github.com/xtls/xray-core v1.260327.1-0.20260627131803-45cf2898ab12
 	golang.org/x/mobile v0.0.0-20260611195102-4dd8f1dbf5d2
 )
 
@@ -28,7 +28,7 @@ require (
 	github.com/refraction-networking/utls v1.8.3-0.20260301010127-aa6edf4b11af // indirect
 	github.com/robfig/cron/v3 v3.0.1 // indirect
 	github.com/rogpeppe/go-internal v1.14.1 // indirect
-	github.com/sagernet/sing v0.8.10 // indirect
+	github.com/sagernet/sing v0.8.11 // indirect
 	github.com/sagernet/sing-shadowsocks v0.2.9 // indirect
 	github.com/vishvananda/netlink v1.3.1 // indirect
 	github.com/vishvananda/netns v0.0.5 // indirect
@@ -44,7 +44,7 @@ require (
 	golang.org/x/sys v0.46.0 // indirect
 	golang.org/x/text v0.38.0 // indirect
 	golang.org/x/time v0.15.0 // indirect
-	golang.org/x/tools v0.46.0 // indirect
+	golang.org/x/tools v0.47.0 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard v0.0.0-20260522210424-ecfc5a8d5446 // indirect
 	golang.zx2c4.com/wireguard/windows v1.0.1 // indirect
@@ -52,6 +52,6 @@ require (
 	google.golang.org/grpc v1.81.1 // indirect
 	google.golang.org/protobuf v1.36.11 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gvisor.dev/gvisor v0.0.0-20260622202500-b859e3a10a38 // indirect
+	gvisor.dev/gvisor v0.0.0-20260624000029-d10071d63566 // indirect
 	lukechampine.com/blake3 v1.4.1 // indirect
 )
