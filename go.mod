@@ -1,14 +1,14 @@
 module github.com/2dust/AndroidLibXrayLite
 
-go 1.27.2
+go 1.27.3
 
 require (
-	github.com/xtls/xray-core v1.260327.1-0.20261021115930-1b1647cd9ddf
+	github.com/xtls/xray-core v1.260327.1-0.20261029083850-0afec66085a8
 	golang.org/x/mobile v0.0.0-20261011034528-197770444867
 )
 
 require (
-	github.com/andybalholm/brotli v1.2.6 // indirect
+	github.com/andybalholm/brotli v1.2.7 // indirect
 	github.com/apernet/quic-go v0.61.1-0.20260806010916-184d081eef3e // indirect
 	github.com/ghodss/yaml v1.0.1-0.20220118164431-d8423dcdf344 // indirect
 	github.com/google/uuid v1.6.0 // indirect
@@ -27,8 +27,8 @@ require (
 	github.com/pion/dtls/v3 v3.1.15 // indirect
 	github.com/pion/logging v0.2.4 // indirect
 	github.com/pion/stun/v3 v3.1.7 // indirect
-	github.com/pion/transport/v4 v4.1.1 // indirect
-	github.com/pion/transport/v5 v5.1.1 // indirect
+	github.com/pion/transport/v4 v4.1.3 // indirect
+	github.com/pion/transport/v5 v5.1.4 // indirect
 	github.com/pires/go-proxyproto v0.16.0 // indirect
 	github.com/quic-go/qpack v0.6.0 // indirect
 	github.com/refraction-networking/utls v1.8.3-0.20260301010127-aa6edf4b11af // indirect
@@ -42,21 +42,21 @@ require (
 	go.uber.org/mock v0.6.0 // indirect
 	go4.org/netipx v0.0.0-20260823151212-3075585bcbeb // indirect
 	golang.org/x/crypto v0.58.0 // indirect
-	golang.org/x/crypto/x509roots/fallback v0.0.0-20261020153306-9f2b28d4331a // indirect
+	golang.org/x/crypto/x509roots/fallback v0.0.0-20261029161132-16804593e8b0 // indirect
 	golang.org/x/exp v0.0.0-20261014143641-f0251eb4aa3e // indirect
-	golang.org/x/net v0.61.0 // indirect
+	golang.org/x/net v0.62.0 // indirect
 	golang.org/x/sync v0.24.0 // indirect
 	golang.org/x/sys v0.49.0 // indirect
 	golang.org/x/text v0.43.0 // indirect
 	golang.org/x/time v0.16.0 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
-	golang.zx2c4.com/wireguard v0.0.0-20261006164505-2631ce99a06f // indirect
+	golang.zx2c4.com/wireguard v0.0.0-20261024220952-b3bc704ef0ee // indirect
 	golang.zx2c4.com/wireguard/windows v1.1.1 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20261019180522-ce908d29299b // indirect
-	google.golang.org/grpc v1.84.0 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20261026165753-2ffab32bce7e // indirect
+	google.golang.org/grpc v1.85.0 // indirect
 	google.golang.org/protobuf v1.36.12 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gvisor.dev/gvisor v0.0.0-20261022014258-46c59e5fa633 // indirect
+	gvisor.dev/gvisor v0.0.0-20261030032141-312939767dc2 // indirect
 	layeh.com/gopher-luar v1.0.11 // indirect
 	lukechampine.com/blake3 v1.4.1 // indirect
 )
